@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xaml-comp compile="true" ?>
+<ResourceDictionary 
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+
+    <!-- Paleta baseada em tons de laranja claro com detalhes pretos -->
+
+    <Color x:Key="Primary">#F4A261</Color>
+    <!-- Laranja médio vibrante -->
+    <Color x:Key="PrimaryDark">#E76F51</Color>
+    <!-- Laranja avermelhado mais escuro -->
+    <Color x:Key="PrimaryDarkText">#441111</Color>
+    <!-- Texto escuro para contraste -->
+    <Color x:Key="Secondary">#FCD5B3</Color>
+    <!-- Laranja claro suave -->
+    <Color x:Key="SecondaryDarkText">#D35400</Color>
+    <!-- Laranja queimado para texto escuro -->
+    <Color x:Key="Tertiary">#F18F01</Color>
+    <!-- Laranja forte e vibrante -->
+
+    <Color x:Key="White">White</Color>
+    <Color x:Key="Black">Black</Color>
+    <Color x:Key="Magenta">#FF6B35</Color>
+    <!-- Um laranja-avermelhado vibrante -->
+    <Color x:Key="MidnightBlue">#3D1E0F</Color>
+    <!-- Marrom escuro inspirado no azul meia-noite -->
+    <Color x:Key="OffBlack">#1F1F1F</Color>
+    <!-- Preto suave para fundos escuros -->
+
+    <Color x:Key="Gray100">#FAE5D3</Color>
+    <!-- Bege claro -->
+    <Color x:Key="Gray200">#F5D1B5</Color>
+    <!-- Laranja areia -->
+    <Color x:Key="Gray300">#EEC39A</Color>
+    <!-- Laranja pastel suave -->
+    <Color x:Key="Gray400">#D7A378</Color>
+    <!-- Laranja terroso -->
+    <Color x:Key="Gray500">#B67850</Color>
+    <!-- Marrom claro queimado -->
+    <Color x:Key="Gray600">#8F5630</Color>
+    <!-- Marrom médio -->
+    <Color x:Key="Gray900">#5A3317</Color>
+    <!-- Marrom escuro -->
+    <Color x:Key="Gray950">#2E1A0B</Color>
+    <!-- Quase preto com tom marrom quente -->
+
+    <SolidColorBrush x:Key="PrimaryBrush" Color="{StaticResource Primary}"/>
+    <SolidColorBrush x:Key="SecondaryBrush" Color="{StaticResource Secondary}"/>
+    <SolidColorBrush x:Key="TertiaryBrush" Color="{StaticResource Tertiary}"/>
+    <SolidColorBrush x:Key="WhiteBrush" Color="{StaticResource White}"/>
+    <SolidColorBrush x:Key="BlackBrush" Color="{StaticResource Black}"/>
+
+    <SolidColorBrush x:Key="Gray100Brush" Color="{StaticResource Gray100}"/>
+    <SolidColorBrush x:Key="Gray200Brush" Color="{StaticResource Gray200}"/>
+    <SolidColorBrush x:Key="Gray300Brush" Color="{StaticResource Gray300}"/>
+    <SolidColorBrush x:Key="Gray400Brush" Color="{StaticResource Gray400}"/>
+    <SolidColorBrush x:Key="Gray500Brush" Color="{StaticResource Gray500}"/>
+    <SolidColorBrush x:Key="Gray600Brush" Color="{StaticResource Gray600}"/>
+    <SolidColorBrush x:Key="Gray900Brush" Color="{StaticResource Gray900}"/>
+    <SolidColorBrush x:Key="Gray950Brush" Color="{StaticResource Gray950}"/>
+</ResourceDictionary>
