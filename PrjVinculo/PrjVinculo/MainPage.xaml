@@ -12,15 +12,23 @@
                 FontSize="Header"
                 VerticalTextAlignment="Center"
                 HorizontalTextAlignment="Center"
-                TextColor="Tomato"
+                TextColor="White"
                />
             <Button
                 Text="Produto"
                 x:Name="btnProduto"
                 Clicked="btnProduto_Clicked"
                 FontSize="Large"
+                BackgroundColor="Orange"
                 />
-               
+
+            <Button
+                Text="Celular"
+                x:Name="btnCelular"
+                Clicked="btnCelular_Clicked"
+                BackgroundColor="GreenYellow"
+                FontSize="Large"/>
+
         </VerticalStackLayout>
     </ScrollView>
 

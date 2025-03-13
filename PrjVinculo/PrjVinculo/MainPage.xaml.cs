@@ -19,5 +19,15 @@
             Navigation.PushAsync(new ProdutoPage() {BindingContext = produto});
         }
 
+        private void btnCelular_Clicked(object sender, EventArgs e)
+        {
+                Celular celular = new Celular();
+                celular.Marca = "Asus Max Shot";
+                celular.Numero = 0800;
+                celular.Operadora = "Claro Br";
+                celular.Capinha = true;
+
+                Navigation.PushAsync(new CelularPage() { BindingContext = celular });
+        }
     }
 }

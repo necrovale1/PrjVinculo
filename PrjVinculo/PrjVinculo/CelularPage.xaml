@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrjVinculo.CelularPage"
+             Title="CelularPage">
+    <VerticalStackLayout>
+        <Label 
+         Text="Página dos Celulares"
+         FontSize="Header"
+         TextColor="GreenYellow"
+         HorizontalTextAlignment="Center"
+         VerticalTextAlignment="Center"/>
+
+        <Label 
+        Text="Marca"
+        VerticalOptions="Center" 
+        HorizontalOptions="Center"
+        FontSize="Medium"/>
+
+
+        <Label 
+        Text="{Binding Marca}"
+        VerticalOptions="Center" 
+        HorizontalOptions="Center"
+        FontSize="Medium"/>
+
+
+        <Label 
+        Text="Numero"
+        VerticalOptions="Center" 
+        HorizontalOptions="Center"
+        FontSize="Medium"/>
+
+        <Label 
+        Text="{Binding Numero}"
+        VerticalOptions="Center" 
+        HorizontalOptions="Center"
+        FontSize="Medium"/>
+
+        <Label 
+        Text="Operadora"
+        VerticalOptions="Center" 
+        HorizontalOptions="Center" 
+        FontSize="Medium"/>
+
+        <Label 
+        Text="{Binding Operadora}"
+        VerticalOptions="Center" 
+        HorizontalOptions="Center"
+        FontSize="Medium"/>
+
+        <Label 
+        Text="Capinha"
+        VerticalOptions="Center" 
+        HorizontalOptions="Center"
+        FontSize="Medium"/>
+        
+        <Label 
+        Text="{Binding Capinha}"
+        VerticalOptions="Center" 
+        HorizontalOptions="Center"
+        FontSize="Medium"/>
+
+        <Button
+        x:Name="btnVoltar"
+        Text="Voltar"
+        Clicked="btnVoltar_Clicked"
+        BackgroundColor="GreenYellow"/>
+    </VerticalStackLayout>
+</ContentPage>
