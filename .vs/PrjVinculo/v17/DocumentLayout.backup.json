@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{76513319-8B5D-4BDA-BC13-2DFF49C26E37}|PrjVinculo\\PrjVinculo\\PrjVinculo.csproj|solutionrelative:prjvinculo\\prjvinculo\\listaprodutopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76513319-8B5D-4BDA-BC13-2DFF49C26E37}|PrjVinculo\\PrjVinculo\\PrjVinculo.csproj|c:\\users\\carol\\source\\repos\\prjvinculo\\prjvinculo\\prjvinculo\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{76513319-8B5D-4BDA-BC13-2DFF49C26E37}|PrjVinculo\\PrjVinculo\\PrjVinculo.csproj|solutionrelative:prjvinculo\\prjvinculo\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{76513319-8B5D-4BDA-BC13-2DFF49C26E37}|PrjVinculo\\PrjVinculo\\PrjVinculo.csproj|c:\\users\\carol\\source\\repos\\prjvinculo\\prjvinculo\\prjvinculo\\produtopage2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{76513319-8B5D-4BDA-BC13-2DFF49C26E37}|PrjVinculo\\PrjVinculo\\PrjVinculo.csproj|solutionrelative:prjvinculo\\prjvinculo\\produtopage2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -19,12 +15,16 @@
       "RelativeMoniker": "D:0:0:{76513319-8B5D-4BDA-BC13-2DFF49C26E37}|PrjVinculo\\PrjVinculo\\PrjVinculo.csproj|solutionrelative:prjvinculo\\prjvinculo\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76513319-8B5D-4BDA-BC13-2DFF49C26E37}|PrjVinculo\\PrjVinculo\\PrjVinculo.csproj|c:\\users\\carol\\source\\repos\\prjvinculo\\prjvinculo\\prjvinculo\\produtopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{76513319-8B5D-4BDA-BC13-2DFF49C26E37}|PrjVinculo\\PrjVinculo\\PrjVinculo.csproj|solutionrelative:prjvinculo\\prjvinculo\\produtopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{76513319-8B5D-4BDA-BC13-2DFF49C26E37}|PrjVinculo\\PrjVinculo\\PrjVinculo.csproj|c:\\users\\carol\\source\\repos\\prjvinculo\\prjvinculo\\prjvinculo\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76513319-8B5D-4BDA-BC13-2DFF49C26E37}|PrjVinculo\\PrjVinculo\\PrjVinculo.csproj|solutionrelative:prjvinculo\\prjvinculo\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76513319-8B5D-4BDA-BC13-2DFF49C26E37}|PrjVinculo\\PrjVinculo\\PrjVinculo.csproj|c:\\users\\carol\\source\\repos\\prjvinculo\\prjvinculo\\prjvinculo\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{76513319-8B5D-4BDA-BC13-2DFF49C26E37}|PrjVinculo\\PrjVinculo\\PrjVinculo.csproj|solutionrelative:prjvinculo\\prjvinculo\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76513319-8B5D-4BDA-BC13-2DFF49C26E37}|PrjVinculo\\PrjVinculo\\PrjVinculo.csproj|c:\\users\\carol\\source\\repos\\prjvinculo\\prjvinculo\\prjvinculo\\produtopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{76513319-8B5D-4BDA-BC13-2DFF49C26E37}|PrjVinculo\\PrjVinculo\\PrjVinculo.csproj|solutionrelative:prjvinculo\\prjvinculo\\produtopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76513319-8B5D-4BDA-BC13-2DFF49C26E37}|PrjVinculo\\PrjVinculo\\PrjVinculo.csproj|c:\\users\\carol\\source\\repos\\prjvinculo\\prjvinculo\\prjvinculo\\celular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -52,27 +52,27 @@
               "RelativeDocumentMoniker": "PrjVinculo\\PrjVinculo\\ListaProdutoPage.xaml",
               "ToolTip": "C:\\Users\\carol\\source\\repos\\PrjVinculo\\PrjVinculo\\PrjVinculo\\ListaProdutoPage.xaml",
               "RelativeToolTip": "PrjVinculo\\PrjVinculo\\ListaProdutoPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-20T18:44:57.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ProdutoPage2.xaml",
               "DocumentMoniker": "C:\\Users\\carol\\source\\repos\\PrjVinculo\\PrjVinculo\\PrjVinculo\\ProdutoPage2.xaml",
               "RelativeDocumentMoniker": "PrjVinculo\\PrjVinculo\\ProdutoPage2.xaml",
               "ToolTip": "C:\\Users\\carol\\source\\repos\\PrjVinculo\\PrjVinculo\\PrjVinculo\\ProdutoPage2.xaml",
               "RelativeToolTip": "PrjVinculo\\PrjVinculo\\ProdutoPage2.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-20T18:41:11.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProdutoPage.xaml",
               "DocumentMoniker": "C:\\Users\\carol\\source\\repos\\PrjVinculo\\PrjVinculo\\PrjVinculo\\ProdutoPage.xaml",
               "RelativeDocumentMoniker": "PrjVinculo\\PrjVinculo\\ProdutoPage.xaml",
@@ -85,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\carol\\source\\repos\\PrjVinculo\\PrjVinculo\\PrjVinculo\\MainPage.xaml",
               "RelativeDocumentMoniker": "PrjVinculo\\PrjVinculo\\MainPage.xaml",
@@ -98,20 +98,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\carol\\source\\repos\\PrjVinculo\\PrjVinculo\\PrjVinculo\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "PrjVinculo\\PrjVinculo\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\carol\\source\\repos\\PrjVinculo\\PrjVinculo\\PrjVinculo\\MainPage.xaml.cs",
               "RelativeToolTip": "PrjVinculo\\PrjVinculo\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T18:16:32.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\carol\\source\\repos\\PrjVinculo\\PrjVinculo\\PrjVinculo\\Produto.cs",
               "RelativeDocumentMoniker": "PrjVinculo\\PrjVinculo\\Produto.cs",
