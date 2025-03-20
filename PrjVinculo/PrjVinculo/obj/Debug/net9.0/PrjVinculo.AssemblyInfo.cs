@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrjVinculo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3785f10f3f7ba4d642de303edf5038726cd9dd55")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc7115cb5072fb00cac956d44c8732b86c75806a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrjVinculo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrjVinculo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,7 +9,7 @@
 	    Spacing="15">
         
         <Label 
-           Text="Página de Produtos 2"
+           Text="Página de Produtos"
            FontSize="Header"
            TextColor="Orange"
            VerticalOptions="Center" 
