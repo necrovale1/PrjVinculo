@@ -6,4 +6,9 @@ public partial class ProdutoPage : ContentPage
 	{
 		InitializeComponent();
 	}
+
+    private void btnVoltar_Clicked(object sender, EventArgs e)
+    {
+		Navigation.PushAsync(new MainPage());
+    }
 }

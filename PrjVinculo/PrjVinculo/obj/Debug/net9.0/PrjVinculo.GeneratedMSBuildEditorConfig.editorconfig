@@ -1,0 +1,87 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PrjVinculo
+build_property.ProjectDir = C:\Users\carol\Source\Repos\PrjVinculo\PrjVinculo\PrjVinculo\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/carol/Source/Repos/PrjVinculo/PrjVinculo/PrjVinculo/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrjVinculo.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/carol/Source/Repos/PrjVinculo/PrjVinculo/PrjVinculo/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrjVinculo.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/carol/Source/Repos/PrjVinculo/PrjVinculo/PrjVinculo/CelularPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrjVinculo.CelularPage.xaml
+build_metadata.AdditionalFiles.TargetPath = CelularPage.xaml
+build_metadata.AdditionalFiles.RelativePath = CelularPage.xaml
+
+[C:/Users/carol/Source/Repos/PrjVinculo/PrjVinculo/PrjVinculo/CelularPage2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrjVinculo.CelularPage2.xaml
+build_metadata.AdditionalFiles.TargetPath = CelularPage2.xaml
+build_metadata.AdditionalFiles.RelativePath = CelularPage2.xaml
+
+[C:/Users/carol/Source/Repos/PrjVinculo/PrjVinculo/PrjVinculo/CelularPage3.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrjVinculo.CelularPage3.xaml
+build_metadata.AdditionalFiles.TargetPath = CelularPage3.xaml
+build_metadata.AdditionalFiles.RelativePath = CelularPage3.xaml
+
+[C:/Users/carol/Source/Repos/PrjVinculo/PrjVinculo/PrjVinculo/CelularPage4.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrjVinculo.CelularPage4.xaml
+build_metadata.AdditionalFiles.TargetPath = CelularPage4.xaml
+build_metadata.AdditionalFiles.RelativePath = CelularPage4.xaml
+
+[C:/Users/carol/Source/Repos/PrjVinculo/PrjVinculo/PrjVinculo/ListaProdutoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrjVinculo.ListaProdutoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ListaProdutoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ListaProdutoPage.xaml
+
+[C:/Users/carol/Source/Repos/PrjVinculo/PrjVinculo/PrjVinculo/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrjVinculo.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/carol/Source/Repos/PrjVinculo/PrjVinculo/PrjVinculo/ProdutoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrjVinculo.ProdutoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ProdutoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ProdutoPage.xaml
+
+[C:/Users/carol/Source/Repos/PrjVinculo/PrjVinculo/PrjVinculo/ProdutoPage2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrjVinculo.ProdutoPage2.xaml
+build_metadata.AdditionalFiles.TargetPath = ProdutoPage2.xaml
+build_metadata.AdditionalFiles.RelativePath = ProdutoPage2.xaml
+
+[C:/Users/carol/Source/Repos/PrjVinculo/PrjVinculo/PrjVinculo/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrjVinculo.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/carol/Source/Repos/PrjVinculo/PrjVinculo/PrjVinculo/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrjVinculo.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

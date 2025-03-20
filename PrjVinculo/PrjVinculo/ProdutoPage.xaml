@@ -5,33 +5,61 @@
              x:Class="PrjVinculo.ProdutoPage"
              Title="ProdutoPage"
              BindingContext="{x:Reference local:Produto}">
-    <VerticalStackLayout>
+    <VerticalStackLayout
+		Padding="10,0"
+	    Spacing="15">
+        
+        <Label 
+            Text="Página de Produtos"
+            FontSize="Header"
+            TextColor="Red"
+            FontAttributes="Bold"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />   
         <Label 
             Text="Descrição"
-            VerticalOptions="Start" 
-            HorizontalOptions="Start" />
+            TextColor="Red"
+            FontSize="Large"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
         <Label 
             Text="{Binding Descricao}"
             FontSize="Large"
-            VerticalOptions="Start" 
-            HorizontalOptions="End" />
+            FontAttributes="Bold"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
         <Label 
             Text="Preço"
-            VerticalOptions="Start" 
-            HorizontalOptions="Start" />
+            TextColor="Red"
+            FontSize="Large"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
         <Label 
             Text="{Binding Preco}"
             FontSize="Large"
-            VerticalOptions="Start" 
-            HorizontalOptions="End" />
+            FontAttributes="Bold"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
         <Label 
             Text="Categoria"
-            VerticalOptions="Start" 
-            HorizontalOptions="Start" />
+            TextColor="Red"
+            FontSize="Large"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
         <Label 
             Text="{Binding Categoria}"
             FontSize="Large"
-            VerticalOptions="Start" 
-            HorizontalOptions="End" />
+            FontAttributes="Bold"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Button
+            x:Name="btnVoltar"
+            Text="Voltar"
+            Clicked="btnVoltar_Clicked"
+            FontAttributes="Bold"
+		    MaximumWidthRequest="300"
+            FontSize="Large"
+            BackgroundColor="Red"
+            />
     </VerticalStackLayout>
 </ContentPage>

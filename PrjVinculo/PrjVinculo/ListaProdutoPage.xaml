@@ -5,6 +5,15 @@
              x:Class="PrjVinculo.ListaProdutoPage"
              Title="ListaProdutoPage">
     <VerticalStackLayout>
+        
+        <Label 
+           Text="Lista de Produtos"
+           FontSize="Header"
+           FontAttributes="Bold"
+           TextColor="Blue"
+           VerticalOptions="Center" 
+           HorizontalOptions="Center" />
+        
         <ListView x:Name="ListaProduto">
             <ListView.ItemTemplate>
                 <DataTemplate x:DataType="local:Produto">
@@ -26,5 +35,13 @@
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
+        <Button
+           x:Name="btnVoltar"
+           Text="Voltar"
+           Clicked="btnVoltar_Clicked"
+           FontAttributes="Bold"
+	       MaximumWidthRequest="300"
+           FontSize="Large"
+           BackgroundColor="Blue"/>
     </VerticalStackLayout>
 </ContentPage>

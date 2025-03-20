@@ -8,4 +8,9 @@ public partial class ListaProdutoPage : ContentPage
 
 		InitializeComponent();
 	}
+
+    private void btnVoltar_Clicked(object sender, EventArgs e)
+    {
+        Navigation.PushAsync(new MainPage());
+    }
 }

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrjVinculo.CelularPage2"
+             Title="CelularPage2">
+    <VerticalStackLayout
+	    Padding="10,0"
+	    Spacing="15">
+        
+        <Label 
+            Text="Página de Celular"
+            FontSize="Header"
+            TextColor="YellowGreen"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Label 
+            Text="Marca"
+            FontSize="Large"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Label 
+            Text="{Binding Marca}"
+            FontSize="Large"
+            FontAttributes="Bold"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Label 
+            Text="Preço"
+            TextColor="YellowGreen"
+            FontSize="Large"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Label 
+            Text="{Binding Preco}"
+            FontSize="Large"
+            FontAttributes="Bold"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Label 
+            Text="Camêra"
+            TextColor="YellowGreen"
+            FontSize="Large"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Label 
+            Text="{Binding Camera}"
+            FontSize="Large"
+            FontAttributes="Bold"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Label 
+           Text="Capinha"
+           TextColor="YellowGreen"
+           FontSize="Large"
+           VerticalOptions="Center" 
+           HorizontalOptions="Center" />
+        <Label 
+           Text="{Binding Capinha}"
+           FontSize="Large"
+           FontAttributes="Bold"
+           VerticalOptions="Center" 
+           HorizontalOptions="Center" />
+        <Button
+           x:Name="btnVoltar"
+           Text="Voltar"
+           Clicked="btnVoltar_Clicked"
+           FontAttributes="Bold"
+           MaximumWidthRequest="300"
+           FontSize="Large"
+           BackgroundColor="YellowGreen"/>
+    </VerticalStackLayout>
+</ContentPage>
