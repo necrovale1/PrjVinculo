@@ -16,5 +16,5 @@ Ganhe pontos extras ao adicionar as seguintes melhorias:
 - 📝 **Adicionar mais um campo na modelagem de Celular**
 - 🔘 **Adicionar mais 2 botões** para exibir Celular (totalizando 4 celulares)
 
-✍️ Feito por Carolina Rodrigues de Mattos, conhecida como Necrovale1
-📚 Curso: TDSN2 semestre📖 Matéria: PAM1
+## ✍️ Feito por Carolina Rodrigues de Mattos, conhecida como Necrovale1
+## 📚 Curso: TDSN2 semestre📖 Matéria: PAM1
