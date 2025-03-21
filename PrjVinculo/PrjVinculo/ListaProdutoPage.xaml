@@ -4,16 +4,8 @@
              xmlns:local="clr-namespace:PrjVinculo"
              x:Class="PrjVinculo.ListaProdutoPage"
              Title="ListaProdutoPage">
+    
     <VerticalStackLayout>
-        
-        <Label 
-           Text="Lista de Produtos"
-           FontSize="Header"
-           FontAttributes="Bold"
-           TextColor="Blue"
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
-        
         <ListView x:Name="ListaProduto">
             <ListView.ItemTemplate>
                 <DataTemplate x:DataType="local:Produto">
@@ -27,21 +19,27 @@
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="Auto" />
                             </Grid.ColumnDefinitions>
-                            <Label Text="{Binding Descricao}"/>
-                            <Label Text="{Binding Preco}"/>
-                            <Label Text="{Binding Categoria}"/>
+                            <Label Text="{Binding Descricao}"
+                                   TextColor="Blue"
+                                   FontAttributes="Bold"/>
+
+                            <Label Text="{Binding Preco}"
+                                   TextColor="Blue"/>
+
+                            <Label Text="{Binding Categoria}"
+                                   TextColor="Blue"/>
                         </Grid>
                     </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
-        <Button
-           x:Name="btnVoltar"
-           Text="Voltar"
-           Clicked="btnVoltar_Clicked"
-           FontAttributes="Bold"
-	       MaximumWidthRequest="300"
-           FontSize="Large"
-           BackgroundColor="Blue"/>
+            <Button
+               x:Name="btnVoltar"
+               Text="Voltar"
+               Clicked="btnVoltar_Clicked"
+               FontAttributes="Bold"
+	           MaximumWidthRequest="300"
+               FontSize="Large"
+               BackgroundColor="Blue"/>
     </VerticalStackLayout>
 </ContentPage>

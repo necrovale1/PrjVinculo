@@ -5,6 +5,7 @@
              x:Class="PrjVinculo.ProdutoPage"
              Title="ProdutoPage"
              BindingContext="{x:Reference local:Produto}">
+    
     <VerticalStackLayout
 		Padding="10,0"
 	    Spacing="15">
@@ -12,13 +13,13 @@
         <Label 
             Text="Página de Produtos"
             FontSize="Header"
-            TextColor="Red"
+            TextColor="Blue"
             FontAttributes="Bold"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />   
         <Label 
             Text="Descrição"
-            TextColor="Red"
+            TextColor="Blue"
             FontSize="Large"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
@@ -30,7 +31,7 @@
             HorizontalOptions="Center" />
         <Label 
             Text="Preço"
-            TextColor="Red"
+            TextColor="Blue"
             FontSize="Large"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
@@ -42,7 +43,7 @@
             HorizontalOptions="Center" />
         <Label 
             Text="Categoria"
-            TextColor="Red"
+            TextColor="Blue"
             FontSize="Large"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
@@ -59,7 +60,7 @@
             FontAttributes="Bold"
 		    MaximumWidthRequest="300"
             FontSize="Large"
-            BackgroundColor="Red"
+            BackgroundColor="Blue"
             />
     </VerticalStackLayout>
 </ContentPage>

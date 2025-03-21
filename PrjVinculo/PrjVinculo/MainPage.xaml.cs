@@ -15,7 +15,7 @@
             produto.Preco = 30;
             produto.Categoria = "Informática";
 
-            Navigation.PushAsync(new ProdutoPage() { BindingContext = produto });
+            Navigation.PushAsync(new ProdutoPage2() { BindingContext = produto });
         }
 
         private void btnProduto2_Clicked(object sender, EventArgs e)
@@ -26,7 +26,7 @@
             produto.Preco = 300;
             produto.Categoria = "Móveis";
 
-            Navigation.PushAsync(new ProdutoPage2() { BindingContext = produto });
+            Navigation.PushAsync(new ProdutoPage3() { BindingContext = produto });
         }
 
         private void btnCelular_Clicked(object sender, EventArgs e)
@@ -80,7 +80,7 @@
 
         private void btnListaprodutos_Clicked(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new ListaProdutoPage());
+            Navigation.PushAsync(new PagListaProduto());
 
         }
     }

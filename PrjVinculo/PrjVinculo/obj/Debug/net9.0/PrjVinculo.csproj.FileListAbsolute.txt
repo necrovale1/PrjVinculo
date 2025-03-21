@@ -12,3 +12,17 @@ C:\Users\carol\Source\Repos\PrjVinculo\PrjVinculo\PrjVinculo\obj\Debug\net9.0\Pr
 C:\Users\carol\Source\Repos\PrjVinculo\PrjVinculo\PrjVinculo\obj\Debug\net9.0\refint\PrjVinculo.dll
 C:\Users\carol\Source\Repos\PrjVinculo\PrjVinculo\PrjVinculo\obj\Debug\net9.0\PrjVinculo.pdb
 C:\Users\carol\Source\Repos\PrjVinculo\PrjVinculo\PrjVinculo\obj\Debug\net9.0\ref\PrjVinculo.dll
+C:\Users\LabInfo\Source\Repos\PrjVinculo\PrjVinculo\PrjVinculo\bin\Debug\net9.0\PrjVinculo.deps.json
+C:\Users\LabInfo\Source\Repos\PrjVinculo\PrjVinculo\PrjVinculo\bin\Debug\net9.0\PrjVinculo.dll
+C:\Users\LabInfo\Source\Repos\PrjVinculo\PrjVinculo\PrjVinculo\bin\Debug\net9.0\PrjVinculo.pdb
+C:\Users\LabInfo\Source\Repos\PrjVinculo\PrjVinculo\PrjVinculo\obj\Debug\net9.0\PrjVinculo.csproj.AssemblyReference.cache
+C:\Users\LabInfo\Source\Repos\PrjVinculo\PrjVinculo\PrjVinculo\obj\Debug\net9.0\PrjVinculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LabInfo\Source\Repos\PrjVinculo\PrjVinculo\PrjVinculo\obj\Debug\net9.0\PrjVinculo.AssemblyInfoInputs.cache
+C:\Users\LabInfo\Source\Repos\PrjVinculo\PrjVinculo\PrjVinculo\obj\Debug\net9.0\PrjVinculo.AssemblyInfo.cs
+C:\Users\LabInfo\Source\Repos\PrjVinculo\PrjVinculo\PrjVinculo\obj\Debug\net9.0\PrjVinculo.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Source\Repos\PrjVinculo\PrjVinculo\PrjVinculo\obj\Debug\net9.0\PrjVinculo.sourcelink.json
+C:\Users\LabInfo\Source\Repos\PrjVinculo\PrjVinculo\PrjVinculo\obj\Debug\net9.0\XamlC.stamp
+C:\Users\LabInfo\Source\Repos\PrjVinculo\PrjVinculo\PrjVinculo\obj\Debug\net9.0\PrjVinculo.dll
+C:\Users\LabInfo\Source\Repos\PrjVinculo\PrjVinculo\PrjVinculo\obj\Debug\net9.0\refint\PrjVinculo.dll
+C:\Users\LabInfo\Source\Repos\PrjVinculo\PrjVinculo\PrjVinculo\obj\Debug\net9.0\PrjVinculo.pdb
+C:\Users\LabInfo\Source\Repos\PrjVinculo\PrjVinculo\PrjVinculo\obj\Debug\net9.0\ref\PrjVinculo.dll
