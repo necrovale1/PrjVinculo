@@ -21,5 +21,5 @@ Ganhe pontos extras ao adicionar as seguintes melhorias:
 
 ## 👩‍🏫 **Equipe de Professores**
 
-- **Prof. Alexkid**
+- **Prof. Alex Machado**
 - **Prof. Benir Falcão**
